@@ -1,0 +1,13 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 ,1,"C_Small","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+J1 ,1,"Conn_02x08_Odd_Even","IDC:IDC_08x02","~"
+J2 J7 J6 J5 J8 ,5,"Screw_Terminal_01x02","RS_Screw:RS_Screw_Term_x2","~"
+J3 ,1,"Conn_02x02_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical","~"
+J9 J4 ,2,"Conn_02x04_Odd_Even","IDC:IDC_04x02","~"
+JP1 ,1,"Jumper_2_Open","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~"
+Q1 Q2 Q3 Q4 ,4,"IPP039N04L","Package_TO_SOT_THT:TO-220-3_Vertical","https://www.infineon.com/dgdl/Infineon-BSP129-DS-v01_42-en.pdf?fileId=db3a30433c1a8752013c1fc296d2395f"
+R1 R2 R3 R4 ,4,"220","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+R13 R17 R19 R15 ,4,"500","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+R14 R18 R20 R16 R5 R6 R7 R8 ,8,"10k","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+R9 R11 R12 R10 ,4,"100","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
+XA1 ,1,"Arduino_Uno_Shield","Arduino2:Arduino_Uno_Shield_mod","https://store.arduino.cc/arduino-uno-rev3"
